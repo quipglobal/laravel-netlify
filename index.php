@@ -1,5 +1,3 @@
-<?
-
-echo "hello World!";
-
+<?php
+echo "Running Laravel test for Netlify";
 ?>
